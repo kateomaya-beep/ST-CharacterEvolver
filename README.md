@@ -16,7 +16,7 @@ A SillyTavern extension that updates a character card's **description** and **pe
 2. Click **Install Extension**
 3. Paste this repository URL:
    ```
-   https://github.com/YOUR_USERNAME/SillyTavern-CharacterEvolver
+   https://github.com/kateomaya-beep/ST-CharacterEvolver
    ```
 4. Click **Install for all users** (or just for you)
 5. Refresh SillyTavern
